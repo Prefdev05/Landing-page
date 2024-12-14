@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
       <footer>
-        <div className="contact-info">
+        <div id='contacto' className="contact-info">
           <h3>Contáctame</h3>
           <p>Email: Juancabrera051975@gmail.com</p>
           <p>Teléfono: +57 3058952705</p>

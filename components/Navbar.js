@@ -16,7 +16,7 @@ export default function Navbar() {
           </Link>
         </li>
         <li className={styles.navItem}>
-          <Link href="/contacto" className={styles.navLink}>
+          <Link href="#contacto" className={styles.navLink}>
             Contacto
           </Link>
         </li>
